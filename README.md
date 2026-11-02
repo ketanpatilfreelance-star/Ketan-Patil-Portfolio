@@ -10,7 +10,11 @@ A cinematic, scroll-driven personal portfolio for **Ketan Patil**, Computer Scie
 | --- | --- |
 | `index.html` | The main cinematic portfolio: hero, creative universe, skills, AI lab, journey arc, career, project wall, credentials and contact. |
 | `versions/gallery-tour.html` | An alternate 3D gallery tour with a walking avatar guide (uses three.js from a CDN). |
-| `assets/ketan-cutout.webp` | The background-removed portrait used in the site. |
+| `assets/photos/` | Ketan's photos (headshot, About portrait, graduation). |
+| `assets/ketan-cutout.webp` | Background-removed portrait used in the closing scene. |
+| `assets/seo/` | Social share image, headshot for Google, favicons and app icons. |
+| `robots.txt`, `sitemap.xml`, `site.webmanifest` | Search engine and browser files. |
+| `vercel.json` | Clean URLs, caching for images, and `/tour` for the 3D gallery tour. |
 
 Everything is a single self-contained HTML file. The main page needs no build step and no JavaScript libraries; only Google Fonts load from the web.
 
@@ -29,6 +33,27 @@ python3 -m http.server 8000
 2. Under **Build and deployment**, choose **Deploy from a branch**.
 3. Pick the `main` branch and the `/ (root)` folder, then **Save**.
 4. After a minute the site is live at `https://ketanpatilfreelance-star.github.io/Ketan-Patil-Portfolio/`.
+
+## SEO
+
+The site is set up for search and social sharing:
+
+- Title, description and canonical URL for `https://ketan-patil-portfolio.vercel.app`.
+- Open Graph and Twitter tags with a 1200×630 share image (`assets/seo/og-image.jpg`).
+- Structured data (JSON-LD) describing Ketan as a Person: job title, employer, university, location, languages, skills, services and profile links.
+- `robots.txt` and `sitemap.xml`. The alternate tour is marked `noindex` so it doesn't compete with the main page.
+- Photos load as separate cached files, and the hero photo is preloaded.
+
+If the site moves to another address (for example a custom domain), replace `https://ketan-patil-portfolio.vercel.app` in `index.html`, `robots.txt`, `sitemap.xml` and `versions/gallery-tour.html`.
+
+### Get it on Google
+
+1. Open [Google Search Console](https://search.google.com/search-console) and add a **URL prefix** property for the site address.
+2. Verify with the **HTML tag** method: paste the `<meta name="google-site-verification" ...>` tag into the `<head>` of `index.html`, push, and click Verify.
+3. Under **Sitemaps**, submit `sitemap.xml`.
+4. Use **URL Inspection** on the home page and click **Request indexing**.
+
+Also add the site link to LinkedIn (Contact info → Website), GitHub profile, Upwork and Instagram bio. Those links help Google find and trust the site.
 
 ## Editing details
 

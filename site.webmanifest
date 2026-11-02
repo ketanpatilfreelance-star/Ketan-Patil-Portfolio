@@ -1,0 +1,20 @@
+{
+  "name": "Ketan Patil \u00b7 Portfolio",
+  "short_name": "Ketan Patil",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070605",
+  "theme_color": "#070605",
+  "icons": [
+    {
+      "src": "/assets/seo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/seo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

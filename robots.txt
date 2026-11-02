@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /versions/
+
+Sitemap: https://ketan-patil-portfolio.vercel.app/sitemap.xml
