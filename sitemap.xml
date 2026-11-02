@@ -3,7 +3,13 @@
   <url>
     <loc>https://ketan-patil-portfolio.vercel.app/</loc>
     <lastmod>2026-11-02</lastmod>
-    <image:image><image:loc>https://ketan-patil-portfolio.vercel.app/assets/seo/ketan-patil-headshot.jpg</image:loc></image:image>
+    <priority>1.0</priority>
     <image:image><image:loc>https://ketan-patil-portfolio.vercel.app/assets/seo/og-image.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ketan-patil-portfolio.vercel.app/profile</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://ketan-patil-portfolio.vercel.app/assets/seo/ketan-patil-headshot.jpg</image:loc></image:image>
   </url>
 </urlset>

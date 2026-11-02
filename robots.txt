@@ -1,3 +1,85 @@
+# Search engines and AI assistants are welcome to read and cite this site.
+
+User-agent: Googlebot
+Allow: /
+Disallow: /versions/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /versions/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /versions/
+
+User-agent: Applebot
+Allow: /
+Disallow: /versions/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /versions/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /versions/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /versions/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /versions/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /versions/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /versions/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /versions/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /versions/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /versions/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /versions/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /versions/
+
+User-agent: CCBot
+Allow: /
+Disallow: /versions/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /versions/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /versions/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /versions/
+
+User-agent: YouBot
+Allow: /
+Disallow: /versions/
+
 User-agent: *
 Allow: /
 Disallow: /versions/

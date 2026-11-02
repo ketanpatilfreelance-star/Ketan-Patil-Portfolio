@@ -14,6 +14,7 @@ A cinematic, scroll-driven personal portfolio for **Ketan Patil**, Computer Scie
 | `assets/ketan-cutout.webp` | Background-removed portrait used in the closing scene. |
 | `assets/seo/` | Social share image, headshot for Google, favicons and app icons. |
 | `robots.txt`, `sitemap.xml`, `site.webmanifest` | Search engine and browser files. |
+| `profile.html`, `llms.txt`, `llms-full.txt` | Text-first profile for search engines and AI assistants. |
 | `vercel.json` | Clean URLs, caching for images, and `/tour` for the 3D gallery tour. |
 
 Everything is a single self-contained HTML file. The main page needs no build step and no JavaScript libraries; only Google Fonts load from the web.
@@ -54,6 +55,18 @@ If the site moves to another address (for example a custom domain), replace `htt
 4. Use **URL Inspection** on the home page and click **Request indexing**.
 
 Also add the site link to LinkedIn (Contact info → Website), GitHub profile, Upwork and Instagram bio. Those links help Google find and trust the site.
+
+## AI search (ChatGPT, Claude, Perplexity, Gemini)
+
+AI assistants answer questions about people by searching the web and reading plain page text. Many of their crawlers don't run JavaScript, so the site also ships text-first versions:
+
+- `profile.html` (served at `/profile`): the full profile as plain HTML, with Person, ProfilePage, FAQPage and BreadcrumbList structured data.
+- `llms.txt` and `llms-full.txt`: a short index and the full profile in Markdown, following the llms.txt convention.
+- `robots.txt` explicitly allows search engines and AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot, PerplexityBot, Google-Extended and others).
+
+To update the profile text, edit `profile.html`, `llms.txt` and `llms-full.txt` together so they stay consistent.
+
+Also submit the site to [Bing Webmaster Tools](https://www.bing.com/webmasters) (ChatGPT search uses Bing's index; you can import from Google Search Console in one click).
 
 ## Editing details
 

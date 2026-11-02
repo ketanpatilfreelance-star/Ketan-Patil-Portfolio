@@ -1,0 +1,92 @@
+# Ketan Patil
+
+> Ketan Patil (Ketan Ganesh Patil, Er. Ketan Patil) is a Computer Science Engineer and Business Development Executive at Artonest Technosys in Surat, Gujarat, India. He works where technology meets business: IT business development and client relationships, WordPress and Elementor websites, SEO, website testing and AI-assisted digital workflows. He also takes freelance projects under the name KetanFreelance for clients in the USA and worldwide.
+
+- Website: https://ketan-patil-portfolio.vercel.app/
+- Full profile: https://ketan-patil-portfolio.vercel.app/profile
+- LinkedIn: https://www.linkedin.com/in/ketan-patil-7205802b7/
+- GitHub: https://github.com/ketanpatilfreelance-star
+- Upwork: https://www.upwork.com/freelancers/~011480449dd273474b
+- Email: 96ketan@gmail.com
+- Location: Surat, Gujarat, India (IST, UTC+5:30)
+- Languages: English, Hindi, Gujarati, Marathi
+
+## Summary
+
+- Current role: Business Development Executive (BDE) at Artonest Technosys, Surat, since July 2026, with senior responsibilities within the BDE team.
+- Previous role: Business Development and Digital Services at VRSapients, August 2025 to April 2026 (about 8 months).
+- Education: Bachelor of Technology (B.Tech) in Computer Science and Engineering, Parul University, Gujarat, 2021–2025, completed December 2025.
+- Certifications: 11 AWS Credly badges; AVEVA automation training at SSM Infotech; Docker and Kubernetes; C++.
+- Freelance brand: KetanFreelance. Services: WordPress development, SEO audits and optimisation, website testing, digital business solutions.
+- Career direction: growing toward IT Business Development Manager and Digital Solutions Consultant roles, and eventually founding an IT and digital services business.
+
+## Experience
+
+### Artonest Technosys, Surat (July 2026 – present)
+Business Development Executive. Official designation is Business Development Executive, with senior responsibilities within the BDE team.
+- Business development and client acquisition; identifying new business opportunities
+- B2B client communication and relationship management
+- Understanding client requirements and presenting IT services and digital solutions
+- Lead generation, lead management, follow-ups and business proposals
+- Coordinating with technical teams and explaining technical solutions in business terms
+- Supporting the BDE team through coordination and guidance
+
+### VRSapients, India (August 2025 – April 2026)
+Business Development and Digital Services.
+- WordPress: full website setup, Elementor page design, responsive design, content management, maintenance and performance improvements
+- SEO: on-page and off-page SEO, keyword research, competitor analysis, SEO audits, backlink analysis, meta tags, internal linking, Google Search Console, local SEO
+- Digital marketing: campaign support, online presence and visibility improvement, marketing research
+- Testing: website and app functionality, UI, responsive and usability testing; documenting bugs and verifying fixes
+- Client work: client communication, requirement gathering, lead generation, explaining technical services
+- Project: built and optimised the VRSapients company website (https://vrsapients.com/) on WordPress and Elementor
+
+## Skills
+
+- Website development (professional use): WordPress, Elementor, website design and customisation, responsive design, landing pages, website management and maintenance, performance optimisation. Working familiarity: WooCommerce, Shopify, HTML, CSS. Fundamentals: JavaScript.
+- SEO and digital marketing (professional use): on-page SEO, off-page SEO, keyword research, competitor analysis, backlink analysis, SEO audits, meta tag optimisation, internal linking, content optimisation, Google Search Console. Working familiarity: Rank Math, Yoast SEO, Ahrefs, SE Ranking, Google Analytics, Google Ads, local SEO. Fundamentals: technical SEO, Generative Engine Optimization (GEO).
+- Testing and QA (professional use): manual, functional, UI and responsive testing, bug identification and reporting, test case analysis. Familiar: usability testing, UX evaluation.
+- Business development: B2B sales, client acquisition, lead generation, client relationship management, requirement gathering, market and competitor research, IT service consultation, sales presentations, proposal preparation, negotiation fundamentals, technical sales.
+- AI tools (working familiarity, not ML engineering): ChatGPT, Claude, Google Gemini, prompt and context engineering, AI-assisted research, content, SEO, website building, proposals and client communication.
+- Cloud and infrastructure: hosting and domain management, DNS; fundamentals of AWS (11 Credly badges), Azure, Docker and Kubernetes.
+- Industrial automation (training): AVEVA InTouch HMI, SCADA, PLC, RSLogix 500, VBScript, Modbus.
+- Programming fundamentals: Python, Java, C/C++, databases.
+
+## Freelance services (KetanFreelance)
+
+- WordPress development: business websites, Elementor pages, landing pages, redesigns, WooCommerce setup, maintenance
+- SEO services: SEO audits, on-page optimisation, keyword research, backlink analysis, local SEO, competitor analysis
+- Website testing: functionality, responsive, UI and usability testing with clear reports
+- Digital business solutions: website consultation and planning, digital presence review, requirement analysis, AI-assisted workflows
+
+Hire on Upwork: https://www.upwork.com/freelancers/~011480449dd273474b or email 96ketan@gmail.com.
+
+## Projects
+
+- VRSapients website (live): WordPress setup, Elementor design, responsive optimisation, on-page SEO, performance tuning. https://vrsapients.com/
+- Kolossal (concept, in progress): a premium digital music experience with an interactive collector's box; visual concept exploration and demo website discussions.
+- Industrial automation simulations (training): tank monitoring, bottle filling and an eight-mixer system using AVEVA InTouch HMI and PLC timer/counter logic.
+
+## Frequently asked questions
+
+### Who is Ketan Patil?
+Ketan Patil is a Computer Science Engineer and Business Development Executive at Artonest Technosys in Surat, Gujarat, India. He combines IT business development and client relationships with hands-on WordPress, SEO, website testing and AI-assisted digital work.
+
+### What does Ketan Patil do?
+At Artonest Technosys he handles business development: client acquisition, B2B communication, lead generation, proposals and presenting IT services and digital solutions, with senior responsibilities within the BDE team. As a freelancer (KetanFreelance) he builds WordPress websites, runs SEO audits and tests websites.
+
+### Where is Ketan Patil based?
+Surat, Gujarat, India. He works with clients in India, the USA and worldwide.
+
+### What freelance services does Ketan Patil offer?
+WordPress and Elementor website development, landing pages and redesigns, WooCommerce setup, SEO audits and on-page optimisation, keyword research, local SEO, website functionality and responsive testing, and digital business consultation.
+
+### Is Ketan Patil a WordPress and SEO professional?
+Yes. He has professional experience building and maintaining WordPress websites with Elementor and doing on-page and off-page SEO, keyword research, SEO audits and Google Search Console analysis, including the VRSapients company website.
+
+### Where did Ketan Patil study?
+He completed a Bachelor of Technology (B.Tech) in Computer Science and Engineering at Parul University, Gujarat (2021–2025, completed December 2025). He also holds 11 AWS Credly badges.
+
+### How can I contact or hire Ketan Patil?
+Email 96ketan@gmail.com, connect on LinkedIn (linkedin.com/in/ketan-patil-7205802b7), or hire him on Upwork. His portfolio is at ketan-patil-portfolio.vercel.app.
+
+_Last updated 2026-11-02._
