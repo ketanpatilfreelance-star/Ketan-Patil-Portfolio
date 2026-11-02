@@ -80,7 +80,7 @@ html.nojs .rv{opacity:1;transform:none}
 .cur,.cur2{position:fixed;left:0;top:0;pointer-events:none;z-index:99;border-radius:50%;transform:translate(-50%,-50%)}
 .cur{width:6px;height:6px;background:var(--brass2)}
 .cur2{width:38px;height:38px;border:1px solid rgba(240,218,172,.55);transition:width .3s,height .3s,background .3s,border-color .3s}
-.cur2.big{width:74px;height:74px;background:rgba(210,174,114,.12);border-color:transparent}
+.cur2.big{width:50px;height:50px;background:transparent;border-color:rgba(240,218,172,.8)}
 @media (hover:none),(pointer:coarse){.cur,.cur2{display:none}}
 
 /* buttons */
@@ -488,8 +488,8 @@ body.ready .arch img{scale:1}
 
 /* cursor label */
 .cur2{display:grid;place-items:center;font:600 10px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:transparent}
-.cur2.big{background:var(--brass2);border-color:transparent;color:var(--ink);mix-blend-mode:normal}
-.cur2.big.lbl{width:86px;height:86px}
+.cur2.big{background:transparent;border-color:rgba(240,218,172,.8);color:transparent}
+.cur2.big.lbl{width:50px;height:50px}
 
 /* contact spotlight */
 .spot{position:relative}
