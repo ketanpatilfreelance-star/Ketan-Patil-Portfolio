@@ -8,7 +8,8 @@ A cinematic, scroll-driven personal portfolio for **Ketan Patil**, Computer Scie
 
 | File | What it is |
 | --- | --- |
-| `index.html` | The main cinematic portfolio: hero, creative universe, skills, AI lab, journey arc, career, project wall, credentials and contact. |
+| `index.html` | The main portfolio (premium navy & brass design): animated silk hero, "How can I help you?" switcher, road-trip journey, expertise, selected work, process, credentials, contact with phone and WhatsApp. |
+| `versions/cinematic.html` | The previous cinematic design, kept as a backup at `/cinematic` (not indexed). |
 | `versions/gallery-tour.html` | An alternate 3D gallery tour with a walking avatar guide (uses three.js from a CDN). |
 | `assets/photos/` | Ketan's photos (headshot, About portrait, graduation). |
 | `assets/ketan-cutout.webp` | Background-removed portrait used in the closing scene. |

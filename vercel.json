@@ -5,6 +5,10 @@
     {
       "source": "/tour",
       "destination": "/versions/gallery-tour.html"
+    },
+    {
+      "source": "/cinematic",
+      "destination": "/versions/cinematic.html"
     }
   ],
   "headers": [
