@@ -64,6 +64,7 @@ Hire on Upwork: https://www.upwork.com/freelancers/~011480449dd273474b, email 96
 ## Projects
 
 - VRSapients website (live): WordPress setup, Elementor design, responsive optimisation, on-page SEO, performance tuning. https://vrsapients.com/
+- UpFront Diagnostics website (live): worked on the WordPress website of UpFront Diagnostics, a Cambridge (UK) medtech company that makes LVOne, a rapid blood test for stroke. https://upfrontdiagnostics.com/
 - Kolossal (concept, in progress): a premium digital music experience with an interactive collector's box; visual concept exploration and demo website discussions.
 - Industrial automation simulations (training): tank monitoring, bottle filling and an eight-mixer system using AVEVA InTouch HMI and PLC timer/counter logic.
 
@@ -82,7 +83,7 @@ Surat, Gujarat, India. He works with clients in India, the USA and worldwide.
 WordPress and Elementor website development, landing pages and redesigns, WooCommerce setup, SEO audits and on-page optimisation, keyword research, local SEO, website functionality and responsive testing, and digital business consultation.
 
 ### Is Ketan Patil a WordPress and SEO professional?
-Yes. He has professional experience building and maintaining WordPress websites with Elementor and doing on-page and off-page SEO, keyword research, SEO audits and Google Search Console analysis, including the VRSapients company website.
+Yes. He has professional experience building and maintaining WordPress websites with Elementor and doing on-page and off-page SEO, keyword research, SEO audits and Google Search Console analysis, including the VRSapients company website and the UpFront Diagnostics website.
 
 ### Where did Ketan Patil study?
 He completed a Bachelor of Technology (B.Tech) in Computer Science and Engineering at Parul University, Gujarat (2021–2025, completed December 2025). He also holds 11 AWS Credly badges.

@@ -19,5 +19,6 @@
 - Previous: Business Development and Digital Services, VRSapients (Aug 2025 – Apr 2026)
 - Education: B.Tech Computer Science and Engineering, Parul University (2021–2025)
 - Certifications: 11 AWS Credly badges; AVEVA automation training (SSM Infotech)
+- Website projects: vrsapients.com, upfrontdiagnostics.com
 - Services: WordPress development, SEO audits, website testing, digital business solutions
 - Location: Surat, Gujarat, India · Languages: English, Hindi, Gujarati, Marathi

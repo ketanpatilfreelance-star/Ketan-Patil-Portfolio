@@ -616,6 +616,7 @@ body.ready .signed text{animation:sign 1.8s 1.8s cubic-bezier(.65,0,.35,1) forwa
 .cv.c1{background:radial-gradient(80% 90% at 85% 15%,rgba(240,218,172,.25),transparent 60%),linear-gradient(150deg,#1d2a47,#0d1424);color:var(--brass2)}
 .cv.c2{background:linear-gradient(150deg,#E9D7B2,#C9A66C);color:#1B1408}
 .cv.c3{background:linear-gradient(150deg,#232323,#121212);color:#E8E2D6}
+.cv.c4{background:radial-gradient(70% 80% at 85% 15%,rgba(160,226,222,.22),transparent 60%),linear-gradient(150deg,#0F3B44,#08222A);color:#CDEDE9}
 .cv .rule{height:1px;background:currentColor;opacity:.35;margin:14px 0}
 .cv .glyph{position:absolute;right:-6%;bottom:-18%;font:italic 400 280px/1 var(--serif);opacity:.08;pointer-events:none}
 .case:hover .cv{transform:scale(1.015)}
@@ -924,6 +925,8 @@ const TOOLS=["WordPress","Elementor","WooCommerce","Rank Math","Yoast","Ahrefs",
 const CASES=[
  {t:"VRSapients website",tags:[["Live","ok"],["WordPress","soft"],["SEO","soft"]],vis:"mock",
   dl:[["The brief","A company website that explains a VR and digital services business and can be found on Google."],["What I did","WordPress setup, Elementor layouts, responsive tuning, on-page SEO, site structure and performance."],["Stack","WordPress · Elementor · Rank Math · Search Console"]],link:["https://vrsapients.com/","Visit the live site"]},
+ {t:"UpFront Diagnostics website",tags:[["Live","ok"],["WordPress","soft"],["Medtech","soft"]],vis:"ufd",
+  dl:[["The client","A Cambridge (UK) medtech company behind LVOne, a rapid blood test for stroke."],["The site","Product, clinical adoption, partners, news and downloads, with a research-paper request form and a distributor dossier."],["My part","Worked on the company's WordPress website."]],link:["https://upfrontdiagnostics.com/","Visit the live site"]},
  {t:"Kolossal",tags:[["Concept · in progress",""],["Interactive UX","soft"]],vis:"box",
   dl:[["The idea","A premium digital music experience: an interactive collector's box with cinematic visuals and multilingual storytelling."],["My part","Visual concept exploration and demo website discussions."],["Status","Concept stage, not a finished product."]]},
  {t:"Industrial automation",tags:[["Training project",""],["HMI · PLC","soft"]],vis:"tanks",
@@ -947,7 +950,7 @@ $("#tools").innerHTML=TOOLS.map(t=>`<span>${esc(t)}</span>`).join("");
 const VIS0={mock:`<div class="mock"><div class="bar"><i></i><i></i><i></i><span>vrsapients.com</span></div><div class="hero2"><b>VRSapients</b><i></i></div><div class="row"><i></i><i></i><i></i></div></div>`,
  box:`<div class="box"><i></i><i></i><i></i><i></i><i></i><i></i></div>`,
  tanks:`<div class="tanks"><div class="tank"><span>TANK-01</span><i></i></div><div class="tank"><span>MIX-04</span><i></i></div><div class="tank"><span>FILL-02</span><i></i></div></div>`};
-const COV={mock:["c1","No. 01 · Live","2025","VRSapients","WordPress · SEO","vrsapients.com","V"],box:["c2","No. 02 · Concept","In progress","Kolossal","Interactive music","Concept","K"],tanks:["c3","No. 03 · Training","SSM Infotech","Process control","InTouch HMI · PLC","Simulation","A"]};
+const COV={mock:["c1","No. 01 · Live","2025","VRSapients","WordPress · SEO","vrsapients.com","V"],ufd:["c4","No. 02 · Live","UK · Medtech","UpFront Diagnostics","WordPress","LVOne · Stroke","U"],box:["c2","No. 03 · Concept","In progress","Kolossal","Interactive music","Concept","K"],tanks:["c3","No. 04 · Training","SSM Infotech","Process control","InTouch HMI · PLC","Simulation","A"]};
 $("#cases").innerHTML=CASES.map(c=>{const v=COV[c.vis];return `<article class="case rv"><div class="vis cover" aria-hidden="true"><div class="cv ${v[0]}"><span class="glyph">${v[6]}</span><div class="top"><span>${v[1]}</span><span>${v[2]}</span></div><div><div class="ttl">${v[3]}</div><div class="rule"></div></div><div class="bot"><span>${v[4]}</span><span>${v[5]}</span></div></div></div><div class="cbody"><div class="tg">${c.tags.map(([t,s])=>`<span class="pill ${s}">${esc(t)}</span>`).join("")}</div><h3>${esc(c.t)}</h3><dl>${c.dl.map(([a,b])=>`<dt>${a}</dt><dd>${esc(b)}</dd>`).join("")}</dl>${c.link?`<div class="go"><a class="btn btn-line btn-sm mag" href="${c.link[0]}" target="_blank" rel="noopener">${c.link[1]} ↗</a></div>`:""}</div></article>`}).join("");
 $("#svc").innerHTML=SVC.map(([t,p,tg],i)=>`<div class="sv"><div class="top"><h3>${t}</h3><span class="n">0${i+1}</span></div><p>${p}</p><div class="tags">${tg.map(x=>`<span>${x}</span>`).join("")}</div></div>`).join("");
 $("#hexes").insertAdjacentHTML("beforeend",Array.from({length:11},(_,i)=>`<div class="hx" aria-hidden="true"><span>${String(i+1).padStart(2,"0")}</span></div>`).join(""));
