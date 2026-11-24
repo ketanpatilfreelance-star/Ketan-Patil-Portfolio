@@ -14,7 +14,7 @@
 
 ## Summary
 
-- Current role: Business Development Executive (BDE) at Artonest Technosys, Surat, since July 2026, with senior responsibilities within the BDE team.
+- Current role: Business Development Executive (BDE) at Artonest Technosys, Surat, since April 2026, with senior responsibilities within the BDE team.
 - Previous role: Business Development and Digital Services at VRSapients, August 2025 to April 2026 (about 8 months).
 - Education: Bachelor of Technology (B.Tech) in Computer Science and Engineering, Parul University, Gujarat, 2021–2025, completed December 2025.
 - Certifications: 11 AWS Credly badges; AVEVA automation training at SSM Infotech; Docker and Kubernetes; C++.
@@ -23,7 +23,7 @@
 
 ## Experience
 
-### Artonest Technosys, Surat (July 2026 – present)
+### Artonest Technosys, Surat (April 2026 – present)
 Business Development Executive. Official designation is Business Development Executive, with senior responsibilities within the BDE team.
 - Business development and client acquisition; identifying new business opportunities
 - B2B client communication and relationship management
